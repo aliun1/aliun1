@@ -4,5 +4,5 @@
 <p>👩‍💻 Estudante da Laboratória 
 <p>😄 Ando me apaixonando cada dia mais pela área da tech
 <p>✨  Adoro interfaces criativas e interatividade
-<p>✏️ Aprendendo HTML, JavasCript e CSS
+<p>✏️ Aprendendo JavasCript, HTML e CSS
 <p>🎓 Aspirante a Desenvolvedora Front-End
