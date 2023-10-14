@@ -1,4 +1,4 @@
-## Olá pessoal! Me chamo Aline e tenho 28 anos 👋
+## Me chamo Aline e tenho 28 anos 👋
 
 <p>🏠 Moro em São Bernardo do Campo, uma cidade do Estado de São Paulo 
 <p>👩‍💻 Estudante da Laboratória 
