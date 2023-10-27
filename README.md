@@ -1,8 +1,7 @@
-## Me chamo Aline e tenho 28 anos 👋
-
-<p>🏠 Moro em São Bernardo do Campo, uma cidade do Estado de São Paulo 
+## Olá, sou a Aliun1! 👋
+ 
+<p>😄 Cada dia me apaixono mais pelo mundo da tech
 <p>👩‍💻 Estudante da Laboratória 
-<p>😄 Ando me apaixonando cada dia mais pela área da tech
-<p>✨  Adoro interfaces criativas e interatividade. Me interesso por projetos Mobile e UX
-<p>✏️ Aprendendo JavasCript, HTML e CSS
+<p>✨ Adoro interatividades e interfaces criativas muito por UI Mobile, UX/UI Design, Inclusão
+<p>✏️ No momento estou aprendendo JavaScript, HTML e CSS
 <p>🎓 Aspirante a Desenvolvedora Front-End
